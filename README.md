@@ -16,7 +16,7 @@ https://www.reddit.com/r/CryptoCurrency/comments/6jgbvb/iota_isnt_it_the_perfect
 
 ## Are you sure a computer can’t just guess my Seed?
 
-An IOTA seed is 81 characters long. There are more IOTA seed combinations than atoms in the universe. All the computers in the world combined would take millions of years just to find your randomly generated one that’s located somewhere between the 0th and the 2781st combination. The chance for someone to randomly generate the exact same seed as yours is 1 / (2781).
+An IOTA seed is 81 characters long. There are more IOTA seed combinations than atoms in the universe. All the computers in the world combined would take millions of years just to find your randomly generated one that’s located somewhere between the 0th and the 2781st combination. The chance for someone to randomly generate the exact same seed as yours is 1 / (27^81).
 
 If you can’t fathom the number 27 ^ 81, this video should help:
 
