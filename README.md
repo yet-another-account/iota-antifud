@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=p8YIdmwcubc
 
 ## How is IOTA free and how does it scale
 
-IOTA is an altruistic system. Proof of work is done in IOTA just like bitcoin. Only a user’s device/phone must do pow for 2 other transactions before issuing one of its own. Therefore no miners and no fees. And the network becomes faster the more transactions are posted. Because of this, spamming the network is encouraged since they provide pow for 2 other transactions and speed up the network.
+Proof of work done in IOTA is not like in bitcoin. Only a user’s device must do very minimal PoW to confirm two other transactions for it to be valid. The PoW is only there to guard against sybil attacks, a la Hashcash, and not as a consensus mechanism like in Bitcoin. Therefore, no miners and no fees are required. The network also becomes faster with more transactions, because the probability of your transactions being selected as a tip (confirmed by someone else) increases. Because of this, spamming the network is encouraged since they provide PoW for 2 other transactions and speed up the network.
 
 ## How was IOTA distributed?
 
